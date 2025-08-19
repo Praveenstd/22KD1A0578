@@ -20,7 +20,4 @@ A simple URL shortener built with HTML, CSS, and JavaScript.
 - LocalStorage persistence (works without backend)
 - Basic logging (no console.log)
 
-## 🖼️ Screenshots
-- Form + result → `assets/s1.png`
-- Redirect → `assets/s2.png`
-- Statistics → `assets/s3.png`
+
